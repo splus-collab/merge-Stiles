@@ -1,4 +1,4 @@
-# make mosaics for S-PLUS tiles
+# make mosaics of S-PLUS tiles
 # 2022-06-09 herpich@usp.br
 
 from astropy.io import fits
